@@ -3,6 +3,8 @@
 A fully functional E-Commerce web application built using React + Vite.
 This project demonstrates routing, authentication, protected routes, cart management, and API integration.
 
+Live demo : https://shopzone-utsav.vercel.app
+
 🚀 Features
 
 🏠 Home Page
