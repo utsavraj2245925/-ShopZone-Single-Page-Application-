@@ -129,5 +129,10 @@ Admin dashboard
 
 Product search & filtering
 
+# Screenshorts
+
+<img width="1918" height="1028" alt="{0BE0D332-6649-4AF6-9890-799F16D0BD22}" src="https://github.com/user-attachments/assets/dcc6d5de-41d6-4d45-93e2-9fc20edf0bda" />
+
+
 
 
